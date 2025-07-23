@@ -1,0 +1,26 @@
+{
+    "name": "News Highlighter",
+    "version": "0.1.0",
+    "description": "Highlighting some text",
+    "permissions": ["storage", "tabs"],
+    "host_permissions": ["https://*.bbc.com/*"],
+    "background": {
+      "service_worker": "background.js"
+    },
+    "content_scripts": [
+      {
+        "matches": ["https://*.bbc.com/*"],
+        "js": ["contentScript.js"]
+      }
+    ],
+    "action": {
+      "default_icon": {
+        "16": "assets/ext-icon.png",
+        "24": "assets/ext-icon.png",
+        "32": "assets/ext-icon.png"
+      },
+      "default_title": "My YT Bookmarks",
+      "default_popup": "pageSummary.html"
+    },
+    "manifest_version": 3
+}
