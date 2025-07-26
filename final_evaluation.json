@@ -1,0 +1,86 @@
+[
+  {
+    "id": "1753533791224",
+    "text": "Please view the video of our prototype here: https://youtu.be/N5sEJA1mAyI",
+    "answers": [
+      "I was able to access the video",
+      "I was able to access the video",
+      "I was able to access the video",
+      "I was able to access the video",
+      "I was able to access the video",
+      "I was able to access the video",
+      "I was able to access the video",
+      "I was able to access the video"
+    ]
+  },
+  {
+    "id": "1753533871379",
+    "text": "Were there any terms of features you didn't understand?",
+    "answers": [
+      "No",
+      "Can people just spam community notes, or is there a limit, since they need to be manually reviewed?",
+      "no",
+      "No",
+      "Nope! The interface is pretty clear.",
+      "no",
+      "Nope",
+      "n/a"
+    ]
+  },
+  {
+    "id": "1753533883288",
+    "text": "How much would you trust this tool to give accurate information?",
+    "answers": [
+      "Somewhat trust",
+      "Somewhat trust",
+      "Somewhat trust",
+      "Somewhat trust",
+      "Somewhat trust",
+      "Somewhat trust",
+      "Somewhat trust",
+      "Completely trust"
+    ]
+  },
+  {
+    "id": "1753533902984",
+    "text": "What features, if any, made you trust or distrust the interface?",
+    "answers": [
+      "No tracing in verbs",
+      "I didn't get to see the details of how it created the scores.",
+      "community note",
+      "I don't love the idea of a centralized team of reviewers verifying the community notes. Perhaps you can use a decentralized/blockchain-based approach to trustlessly verify community notes. I know that's outside the scope of this class but thought it would be worth mentioning.",
+      "Annotations are added by anonymous individuals, and then are reviewed by anonymous individuals. Regardless, I like the ability for people to indicate that a claim is misleading and then link a source within the article itself.",
+      "how would i know the source is trustworthy",
+      "No specific features",
+      "n/a"
+    ]
+  },
+  {
+    "id": "1753533916671",
+    "text": "Which feature(s) did you find unnecessary or confusing?",
+    "answers": [
+      "None",
+      "The only thing that is confusing, is how the scores were calculated.",
+      "NA",
+      "Personal preference: rather than framing it as 75% human written, frame it as 25% AI-written. Users may misunderstand what 75% human written means.",
+      "The article scores are confusing. What does it mean that 25% of the statements are misleading? What is \"50% sources\"? I like the \"75% human written\", though I don't trust that LLM detectors are accurate.",
+      "the different color highlight",
+      "N/A",
+      "n/a"
+    ]
+  },
+  {
+    "id": "1753533923451",
+    "text": "How clear and helpful were the explanations or labels provided?",
+    "answers": [
+      "Very clear",
+      "Very clear",
+      "Very clear",
+      "Very clear",
+      "Very clear",
+      "Somewhat clear",
+      "Very clear",
+      "Very clear"
+    ]
+  }
+]
