@@ -1,0 +1,443 @@
+[
+  {
+    "id": "1752885827245",
+    "text": "Please access prototype 1 here: https://www.figma.com/proto/G3vNAKbBOKsAXoLy2C8XbF/Entei_Extension?node-id=1-2&t=HBIlTHANCR3WmWU3-1&starting-point-node-id=1%3A2",
+    "answers": [
+      "I was able to access prototype 1",
+      "I was able to access prototype 1",
+      "I was able to access prototype 1",
+      "I was able to access prototype 1",
+      "I was able to access prototype 1",
+      "I was able to access prototype 1",
+      "I was able to access prototype 1",
+      "I was able to access prototype 1",
+      "I was able to access prototype 1",
+      "I was able to access prototype 1",
+      "I was able to access prototype 1",
+      "I was able to access prototype 1",
+      "I was able to access prototype 1",
+      "I was able to access prototype 1",
+      "I was able to access prototype 1"
+    ]
+  },
+  {
+    "id": "1752885965177",
+    "text": "For prototype 1: were there any terms of features you didn't understand?",
+    "answers": [
+      "No",
+      "how is article accuracy calculated?",
+      "I was unclear on how you activate it. Is it like a passive extension that just generates highlights on text when you load the article? ",
+      "source of the feedback is not clear",
+      "No",
+      "none",
+      "No",
+      "No",
+      "The photo was dispositioned",
+      "N/A",
+      "NA",
+      "Pretty simple",
+      "Nope",
+      "no",
+      "Nope"
+    ]
+  },
+  {
+    "id": "1752885992378",
+    "text": "For prototype 1: How much would you trust this tool to give accurate information?",
+    "answers": [
+      "Somewhat trust",
+      "Somewhat trust",
+      "Somewhat skeptical",
+      "Somewhat trust",
+      "Somewhat trust",
+      "Somewhat trust",
+      "Somewhat trust",
+      "Somewhat trust",
+      "Somewhat skeptical",
+      "Somewhat skeptical",
+      "Not at all",
+      "Completely trust",
+      "Somewhat skeptical",
+      "Somewhat trust",
+      "Somewhat trust"
+    ]
+  },
+  {
+    "id": "1752886115030",
+    "text": "For prototype 1: What features, if any, made you trust or distrust the interface?",
+    "answers": [
+      "It would help to see the evidence (perhaps a link) that disproves the misleading claim in the yellow highlight. ",
+      "who is responsible for flagging false or misleading statements? Is there any threshold for community notes or can anyone submit one? This lack of transparency makes me doubt the accuracy",
+      "There isn't much context as to how the assessment is made. Upon what information are you basing the statement that the claim is misleading? And how are the community notes aggregated, exactly?",
+      "distrust - it does not say source of evaluation. trust - additional feedback",
+      "The author name and institution name made me trust it",
+      "none",
+      "The presence of additional information related to claims",
+      "The way of phrasing the sentences seem reliable to me",
+      "It does not look professionally maintained",
+      "Why would  I trust this source",
+      "NA",
+      "Need sources",
+      "I can't see any links to evidence or sources. It just feels like it could be equally biased. ",
+      "community note",
+      "No specific features"
+    ]
+  },
+  {
+    "id": "1752886145705",
+    "text": "For prototype 1: Which feature(s) did you find most useful?",
+    "answers": [
+      "I like that certain words are highlighted",
+      "the highlights directly in the article",
+      "I like that the assessment happens contextually without having to increase the user's cognitive load",
+      "documentation of fake info details",
+      "the picture",
+      "strong UI",
+      "The additional information",
+      "Show the note on the same page, so the user does not need to jump back and forth",
+      "Easy to source the material",
+      "N/A",
+      "NA",
+      "I like the color highlighting",
+      "Not complicated",
+      "NA",
+      "N/A"
+    ]
+  },
+  {
+    "id": "1752886178979",
+    "text": "For prototype 1: Which feature(s) did you find unnecessary or confusing?",
+    "answers": [
+      "It would be nice to be able to hover over the words to see the comment",
+      "I don't know how the article accuracy is calculated",
+      "As stated before, unclear how the mechanic activates and how the assessment is determined.",
+      "none",
+      "the exclamation point at the top right",
+      "none",
+      "None",
+      "the color seems unnecessary",
+      "The photo being misaligned",
+      "N/A",
+      "NA",
+      "None",
+      "Hard to gauge what is actually verifying the claims (or what a verifiable claim even is). ",
+      "NA",
+      "N/A"
+    ]
+  },
+  {
+    "id": "1752886205747",
+    "text": "For prototype 1: How clear and helpful were the explanations or labels provided?",
+    "answers": [
+      "Somewhat clear",
+      "Somewhat clear",
+      "Somewhat clear",
+      "Somewhat clear",
+      "Very clear",
+      "Somewhat clear",
+      "Very clear",
+      "Somewhat clear",
+      "Somewhat unclear",
+      "Somewhat clear",
+      "Very unclear",
+      "Somewhat clear",
+      "Somewhat unclear",
+      "Somewhat unclear",
+      "Very clear"
+    ]
+  },
+  {
+    "id": "1752886325982",
+    "text": "Please access prototype 2 here: https://www.figma.com/proto/Pxk3oR7B5i4gjasaXJMDtI/HCI-Team-Project?node-id=10-37&p=f&t=x7MLjPM7vExBsYoC-0&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=10%3A39",
+    "answers": [
+      "I was able to access prototype 2",
+      "I was able to access prototype 2",
+      "I was able to access prototype 2",
+      "I was able to access prototype 2",
+      "I was able to access prototype 2",
+      "I was able to access prototype 2",
+      "I was able to access prototype 2",
+      "I was able to access prototype 2",
+      "I was able to access prototype 2",
+      "I was able to access prototype 2",
+      "I was able to access prototype 2",
+      "I was able to access prototype 2",
+      "I was able to access prototype 2",
+      "I was able to access prototype 2",
+      "I was able to access prototype 2"
+    ]
+  },
+  {
+    "id": "1752886373773",
+    "text": "For prototype 2: were there any terms of features you didn't understand?",
+    "answers": [
+      "I don't understand how the prototype deals with fake news. The highlights on the prototype don't do anything or reveal anything about the highlighted sentence,",
+      "I don't understand what the highlights mean",
+      "This prototype just looks like prototype 1 but without interactivity. I don't understand how this offers a substantially different alternative or what its advantages are compared to its alternatives.",
+      "flow is not clear",
+      "no",
+      "none",
+      "None",
+      "No",
+      "Was this suppose to be a news article?",
+      "How to interact with it. ",
+      "NA",
+      "None",
+      "It doesn't seem to actually have any actions?",
+      "NA",
+      "Nope"
+    ]
+  },
+  {
+    "id": "1752886391014",
+    "text": "For prototype 2: How much would you trust this tool to give accurate information?",
+    "answers": [
+      "Not at all",
+      "Not at all",
+      "Somewhat skeptical",
+      "Somewhat trust",
+      "Somewhat skeptical",
+      "Somewhat trust",
+      "Somewhat skeptical",
+      "Somewhat skeptical",
+      "Not at all",
+      "Not at all",
+      "Somewhat skeptical",
+      "Somewhat trust",
+      "Not at all",
+      "Somewhat trust",
+      "Somewhat trust"
+    ]
+  },
+  {
+    "id": "1752886415076",
+    "text": "For prototype 2: What features, if any, made you trust or distrust the interface?",
+    "answers": [
+      "I don't get it",
+      "I could not click on the highlights to see what they mean",
+      "Same issues as before. No indication as to why this text is being fact checked, moreso, there's no indication as to what the highlight colors represent.",
+      "meaning of color should be explained",
+      "the format of words",
+      "none",
+      "Nothing in particular, I just don't understand what is the yellow or red highlighting",
+      "There's only highlighting withou explanation",
+      "Looks like a scam",
+      "N/A ; Didn't see how I could use the tool.",
+      "NA",
+      "It doesn't explain the highlights",
+      "There is no information around why things are highlighted, what the colors mean, or what is being done to verify them.",
+      "NA",
+      "N/A"
+    ]
+  },
+  {
+    "id": "1752886428367",
+    "text": "For prototype 2: Which feature(s) did you find most useful?",
+    "answers": [
+      "I guess it's cool to have a bunch of news articles under Trending, but a lot of other news aggregators do that",
+      "nothing",
+      "It highlights key lines in the text.",
+      "color coding is good, just need legends",
+      "highlighting sentences",
+      "it was okay, not very useful",
+      "Nothing in particular",
+      "At least highlighting a whole sentence",
+      "None",
+      "N/A",
+      "NA",
+      "Unsure",
+      "None really since there was nothing informative ",
+      "NA",
+      "N/A"
+    ]
+  },
+  {
+    "id": "1752886439459",
+    "text": "For prototype 2: Which feature(s) did you find unnecessary or confusing?",
+    "answers": [
+      "didn't get the goal of this prototype",
+      "are you supposed to be able to click on the highlights?",
+      "It was confusing to determine how this prototype actually works in practice.",
+      "none",
+      "none",
+      "asdf",
+      "The yellow and red highlighting, I do not understand what they are",
+      "I am confused about what does it mean by different colors",
+      "All of it was pretty confusing",
+      "The UI",
+      "NA",
+      "It's pretty similar to prototype 1",
+      "Meaning of highlights, or what is being fact checked.",
+      "NA",
+      "N/A"
+    ]
+  },
+  {
+    "id": "1752886453088",
+    "text": "For prototype 2: How clear and helpful were the explanations or labels provided?",
+    "answers": [
+      "Very unclear",
+      "Very unclear",
+      "Somewhat unclear",
+      "Somewhat unclear",
+      "Very clear",
+      "Very clear",
+      "Very unclear",
+      "Very unclear",
+      "Very unclear",
+      "Very unclear",
+      "Very unclear",
+      "Somewhat unclear",
+      "Very unclear",
+      "Very clear",
+      "Very clear"
+    ]
+  },
+  {
+    "id": "1752886484904",
+    "text": "Please access prototype 3 here: https://www.figma.com/proto/jFoISIji7HaqtN0TsYn9JR/Untitled?node-id=0-369&p=f&t=uayYR1sS9gkcqslH-0&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=0%3A369",
+    "answers": [
+      "I was able to acces prototype 3",
+      "I was able to acces prototype 3",
+      "I was able to acces prototype 3",
+      "I was able to acces prototype 3",
+      "I was able to acces prototype 3",
+      "I was able to acces prototype 3",
+      "I was able to acces prototype 3",
+      "I was able to acces prototype 3",
+      "I was able to acces prototype 3",
+      "I was able to acces prototype 3",
+      "I was able to acces prototype 3",
+      "I was able to acces prototype 3",
+      "I was able to acces prototype 3",
+      "I was able to acces prototype 3",
+      "I was able to acces prototype 3"
+    ]
+  },
+  {
+    "id": "1752886613779",
+    "text": "For prototype 3: were there any terms of features you didn't understand?",
+    "answers": [
+      "no",
+      "how is video accuracy calculated?",
+      "It's unclear what constitutes a \"Misleading Claim\" and there's no tooltip to explain how that's determined. The other metrics seem less vague, however.",
+      "no",
+      "no",
+      "none",
+      "None",
+      "No",
+      "The misspellings",
+      "N/A",
+      "NA",
+      "No",
+      "I like that it's able to analyze multi modal content like video",
+      "NA",
+      "N/A"
+    ]
+  },
+  {
+    "id": "1752886626275",
+    "text": "For prototype 3: How much would you trust this tool to give accurate information?",
+    "answers": [
+      "Somewhat trust",
+      "Somewhat trust",
+      "Somewhat skeptical",
+      "Somewhat trust",
+      "Somewhat trust",
+      "Completely trust",
+      "Somewhat trust",
+      "Somewhat trust",
+      "Not at all",
+      "Somewhat skeptical",
+      "Not at all",
+      "Not at all",
+      "Somewhat trust",
+      "Somewhat trust",
+      "Somewhat trust"
+    ]
+  },
+  {
+    "id": "1752886689658",
+    "text": "For prototype 3: What features, if any, made you trust or distrust the interface?",
+    "answers": [
+      "How does the interface work on satirical videos?",
+      "the fact that the summary is generated by ChatGPT, which doesn't really understand nuance",
+      "It states X or Y claim is false/misleading/unverified, but it does not have actual any actual way to back that up.",
+      "accuracy details source should be provided",
+      "none",
+      "none",
+      "The summary of the stats in the video",
+      "The checking result is very clear",
+      "It looks like a Tiktok tool",
+      "Again, why would I trust this source",
+      "NA",
+      "Too much AI",
+      "It has explanations and a score along with citations",
+      "NA",
+      "N/A"
+    ]
+  },
+  {
+    "id": "1752886722701",
+    "text": "For prototype 3: Which feature(s) did you find most useful?",
+    "answers": [
+      "It is a cool concept to be able to copy paste a link and have it analyze it for truthfulness",
+      "I liked that there's a summary",
+      "I think the Video stats, as a concept is the most useful in determining the accuracy of the assessment.",
+      "accuracy details",
+      "none",
+      "very strong prototype",
+      "The truth checker in general",
+      "It supports multiple media formats",
+      "Simple design",
+      "AI summary",
+      "NA",
+      "Uploading vids/links",
+      "Te summary and citations",
+      "NA",
+      "N/A"
+    ]
+  },
+  {
+    "id": "1752886728977",
+    "text": "For prototype 3: Which feature(s) did you find unnecessary or confusing?",
+    "answers": [
+      "n/a",
+      "I would have liked Community Notes instead of an AI-generated summary",
+      "I think the prototype does a good job of narrowing down to the bare essentials, though the \"accuracy\" score is kind of arbitrary without knowing better what it's based on.",
+      "moving away from screen",
+      "none",
+      "asdf",
+      "None",
+      "Nothing",
+      "The app",
+      "How does this compare to the other 2 ? As a user, this would take too long for me to go and use. ",
+      "NA",
+      "Making it full AI",
+      "Nothing really",
+      "NA",
+      "N/A"
+    ]
+  },
+  {
+    "id": "1752886746166",
+    "text": "For prototype 3: How clear and helpful were the explanations or labels provided?",
+    "answers": [
+      "Very clear",
+      "Somewhat clear",
+      "Very clear",
+      "Somewhat clear",
+      "Somewhat unclear",
+      "Somewhat unclear",
+      "Very clear",
+      "Very clear",
+      "Very unclear",
+      "Very clear",
+      "Very unclear",
+      "Somewhat unclear",
+      "Somewhat clear",
+      "Very clear",
+      "Very clear"
+    ]
+  }
+]
