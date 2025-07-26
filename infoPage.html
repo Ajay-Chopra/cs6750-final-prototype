@@ -1,0 +1,51 @@
+<script type="module" src="pageSummary.js"></script>
+<div class="w3-container">
+    <h4>How Article Scores are Calculated</h4>
+    <h5>Accuracy</h5>
+    <p>
+        An article's Accuracy score is determined by the percentage of its statements that are truthful.
+        For instance, if an article makes 10 claims and 8 of the claims are true, then the article will
+        have an accuracy score of 80%
+    </p>
+    <h5>Sources</h5>
+    <p>
+        An article's Sources score is determined by the percentage of its claims that contain cited sources
+        and the accuracy scores of each of those sources. Hence, the sources must be cited and must be reliable
+        in order for an article to attain a high sources score.
+    </p>
+    <h5>Human Written</h5>
+    <p>
+        The Human Written score is the percentage liklihood that the article was written by a human as opposed
+        to generative AI. Our models are trained on millions of examples of both human written and AI written articles
+        and can distinguish between them with >95% accuracy.
+    </p>
+    <br>
+
+    <h4>Annotation Colors and Meanings</h4>
+    <table class="w3-table w3-striped w3-bordered w3-border w3-hoverable w3-white">
+        <tbody>
+            <tr>
+                <td>Color</td>
+                <td>Description</td>
+            </tr>
+            <tr>
+                <td style="color: yellow">Yellow</td>
+                <td>Statement that may be technically true but is presented in a misleading way.</td>
+            </tr>
+            <tr>
+                <td style="color: aquamarine">Teal</td>
+                <td>A community note left by other readers and verified by fact checking</td>
+            </tr>
+            <tr>
+                <td style="color: red">Red</td>
+                <td>Statement that is factually incorrect.</td>
+            </tr>
+        </tbody>
+    </table>
+
+    <br>
+    <button id="back-button" class="w3-button w3-grey"><i class="fa fa-arrow-left"></i>&nbsp; Back</button>
+
+
+
+</div>

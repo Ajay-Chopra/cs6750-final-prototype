@@ -3,7 +3,9 @@
 
         addStyleTag();
         highlightArticleText();
+        createCommunityNote();
         addScriptTag();
+        addScriptTag2();
     });
 
     const addStyleTag = () => {
@@ -85,9 +87,18 @@
 
     }
 
+    const addScriptTag2 = () => {
+        popupDiv = document.getElementById("myPopupDiv2");
+        popupDiv.addEventListener("click", (e) => {
+            var popup = document.getElementById("myPopup2");
+            popup.classList.toggle("show");
+        })
+
+    }
+
     const highlightArticleText = () => {
 
-        correction = "This information is misleading. Reports indicated the Trump administration knowingly sent Mr. Garcia to El Salvador."
+        correction = "This information is misleading. Reports indicated the Trump administration knowingly sent Mr. Garcia to El Salvador (<a href='https://www.nytimes.com/2025/07/23/us/politics/abrego-garcia-judge-orders.html'>Source</a>)."
         const paragraph = document.getElementsByTagName("p")[0];
         text = paragraph.innerHTML;
         newElement = `
@@ -99,6 +110,21 @@
         text = text.replace(/mistakenly/gi, newElement);
         paragraph.innerHTML = text;
 
-    } 
+    }
+    
+    const createCommunityNote = () => {
+        correction = "Community Note: The Trump administration has not provided any evidence that Mr. Garcia was a member of the gang. (<a href='https://www.cnn.com/2025/07/02/politics/kilmar-abrego-garcia-civil-lawsuit-el-salvador-prison'>Source</a>)."
+        const paragraph = document.getElementsByTagName("p")[2];
+        text = paragraph.innerHTML;
+        newElement = `
+            <div style="background-color: aquamarine;" class="popup" id="myPopupDiv2">MS-13
+                <span class="popuptext" id="myPopup2">${correction}</span>
+            </div>
+        `
+
+        text = text.replace(/MS-13/gi, newElement);
+        paragraph.innerHTML = text;
+
+    }
 
 })();
